@@ -3,3 +3,30 @@ node_modules/
 faiss_index/
 __pycache__/
 .DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
