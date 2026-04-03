@@ -27,6 +27,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+backend/data.csv
 
 # OS files
 .DS_Store
