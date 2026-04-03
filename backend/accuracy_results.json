@@ -1,0 +1,134 @@
+{
+  "total_questions": 10,
+  "final_accuracy": 87.4,
+  "grade": "A (Very Good)",
+  "metrics": {
+    "role_accuracy": 95.0,
+    "keyword_accuracy": 95.5,
+    "quality_score": 100.0
+  },
+  "per_question": [
+    {
+      "question": "Which role suits me if I know Python and SQL?",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Python_Developer",
+        "Software_Developer",
+        "Database_Administrator"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "I know JavaScript, React, HTML, CSS - what job?",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 80.0,
+      "quality_score": 100,
+      "overall": 93.3,
+      "roles_found": [
+        "Front_End_Developer",
+        "Web_Developer"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "Java, Spring Boot, Microservices - suggest role",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Java_Developer",
+        "Software_Developer"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "I have experience in machine learning and Python",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Python_Developer",
+        "Software_Developer"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "Network security and firewall management skills",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Security_Analyst",
+        "Network_Administrator"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "Django and REST APIs, what job should I apply for?",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Python_Developer",
+        "Software_Developer",
+        "Web_Developer"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "I manage databases, Oracle and PostgreSQL expert",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Database_Administrator"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "Linux, Docker, Kubernetes, CI/CD - what role?",
+      "role_accuracy": 50.0,
+      "keyword_accuracy": 75.0,
+      "quality_score": 100,
+      "overall": 75.0,
+      "roles_found": [
+        "Systems_Administrator"
+      ],
+      "roles_missed": [
+        "Software_Developer"
+      ]
+    },
+    {
+      "question": "Project management with Agile and Scrum experience",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Project_manager"
+      ],
+      "roles_missed": []
+    },
+    {
+      "question": "Node.js, Express, MongoDB, full stack development",
+      "role_accuracy": 100.0,
+      "keyword_accuracy": 100.0,
+      "quality_score": 100,
+      "overall": 100.0,
+      "roles_found": [
+        "Web_Developer",
+        "Software_Developer"
+      ],
+      "roles_missed": []
+    }
+  ],
+  "llm_judge_avg": 78.0
+}
